@@ -5,7 +5,7 @@
 ### the listed folders, just keep that line commented out.        ###
 #####################################################################
 ### Path to your config folder you want to back up
-config_folder=/mnt/UDISK/printer_config
+config_folder=/mnt/UDISK/SonicPad-Klipper-E3S1
 
 ### Path to your Klipper folder, by default that is '~/klipper'
 klipper_folder=/usr/share/klipper
